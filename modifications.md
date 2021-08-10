@@ -1,12 +1,16 @@
 ### 2016 Subaru Crosstrek Premium
 Dark Gray Metallic
 
+---
+
 #### Wheel and tire upgrades:
 * Black Rhino Boxer wheel, 15”
 * Yokohama Geolandar A/T, 215/70/15
 * Gorilla spline lugs
 * Full size spare
 * TPMS
+
+---
 
 #### Lighting upgrades:
 * Diode Dynamics
@@ -26,10 +30,14 @@ Dark Gray Metallic
   * SMF6 LED dome light, cool white
   * SMF6 LED map lights, cool white
 
+---
+
 #### Brakes upgrades:
 * R1 Concepts
   * Carbon GEOMET® Series brake rotors, drilled and slotted
   * Optimum OEp brake pads
+
+---
 
 #### Suspension upgrades:
 * Bilstein B6 struts
@@ -42,6 +50,8 @@ Dark Gray Metallic
   * Dust boots, bump stops
   * Rear sway bar kit, 19mm
 
+---
+
 #### Cargo upgrades:
 * Rhino Rack
   * Pioneer SX Platform
@@ -53,6 +63,8 @@ Dark Gray Metallic
   * Hitch-mount cargo carrier
 * Küat bike rack
 * Apache 9800 weatherproof rifle case, custom mounted
+
+---
 
 #### Miscellaneous upgrades:
 * Garmin Dash Cam 55, hardwired
