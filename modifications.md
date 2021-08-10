@@ -1,7 +1,7 @@
 ### 2016 Subaru Crosstrek Premium
 Dark Gray Metallic
 
-#### Wheel and tire upgrades
+#### Wheel and tire upgrades:
 * Black Rhino Boxer wheel, 15”
 * Yokohama Geolandar A/T, 215/70/15
 * Gorilla spline lugs
